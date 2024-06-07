@@ -6,6 +6,8 @@
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](./LICENSE)
 
+[![Run on Repl.it](https://repl.it/badge/github/Alex-Nelson-1/ICS3U-FINAL-PROJECT-WORD-GAME)](https://repl.it/github/Alex-Nelson-1/ICS3U-FINAL-PROJECT-WORD-GAME)
+
 ---
 
 **Python**
